@@ -38,7 +38,7 @@ The project opens up a discussion on whether coffee truly helps, or if **better 
 ### 🏆 Challenge  
 This report was created for the **“Raise the Bar” challenge** in the **Microsoft Fabric Community**.  
 You can view and support my entry here 👇  
-👉 [Add your submission link here]  
+👉 https://community.fabric.microsoft.com/t5/QuickViz-Gallery/Raise-The-Bar-The-Impact-of-sleep-hours-on-daily-energy-levels/td-p/4871939 
 
 ---
 
@@ -53,10 +53,6 @@ This project made me realize that productivity isn’t about how much coffee we 
 It’s a small reminder that **true energy comes from quality sleep, not caffeine**.  
 
 
-
-### 👩‍💻 Author  
-Created by **[Nabha Ahmed]**  
-Connect with me on [LinkedIn](
 ### 👩‍💻 Author  
 Created by **[Nabha Ahmed]**  
 Connect with me on [LinkedIn](www.linkedin.com/in/nabha-ahmed
